@@ -5,8 +5,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Cell Counts   
 **all cells: 118**  
 code_empty: 0   
-markdown: 113   
-code: 5   
+markdown: 112   
+code: 6   
 
 ## Action Outputs
 
@@ -25,14 +25,14 @@ code: 5
 
 ### Check Output Sizes and Rules
 
-Total output size: 0.00 KB
+Total output size: 0.51 KB
 Total number of images: 0
 Total number of tables: 0
 Total number of audios: 0
 
 | Mimetype | Presence |
 | --- | --- |
-| text/html | False |
+| text/html | True |
 | text/plain | False |
 | image/png | False |
 | audio | False |
@@ -40,16 +40,13 @@ Total number of audios: 0
 | Output type | Presence |
 | --- | --- |
 | display_data | False |
-| execute_result | False |
+| execute_result | True |
 
 | Tag | Cell | Remark |
 | --- | --- | --- |
 
 
 ### Check HTML
-- Cell 19 - Encountered a start tag: div
-- Cell 19 - Encountered a start tag: iframe
-- Cell 19 - Encountered an end tag: iframe
 
 
 ### Check JavaScript
@@ -61,6 +58,7 @@ No JavaScript code found in output cells.
 - Cell 2: Tags: ['copyright']
 - Cell 3: Tags: ['keywords']
 - Cell 4: Tags: ['abstract']
+- Cell 19: Tags: ['figure-iframe-*']
 - Cell 20: Tags: ['hermeneutics']
 - Cell 21: Tags: ['hermeneutics']
 - Cell 22: Tags: ['hermeneutics']
@@ -86,29 +84,29 @@ No JavaScript code found in output cells.
 - Cell 93: Tags: ['hermeneutics']
 - Cell 94: Tags: ['hermeneutics']
 - Cell 95: Tags: ['hermeneutics']
-- Cell 96: Tags: ['hermeneutics', 'figure-typological-compass-placement-1']
-  - Invalid tag: figure-typological-compass-placement-1
-- Cell 97: Tags: ['hermeneutics', 'figure-typological-compas-composite-2']
-  - Invalid tag: figure-typological-compas-composite-2
+- Cell 96: Tags: ['hermeneutics', 'figure-typological-compass-placement-1-*']
+  - Invalid tag: figure-typological-compass-placement-1-*
+- Cell 97: Tags: ['hermeneutics', 'figure-typological-compas-composite-2-*']
+  - Invalid tag: figure-typological-compas-composite-2-*
 - Cell 98: Tags: ['hermeneutics']
-- Cell 102: Tags: ['figure-manifest-network-navigation-3']
-  - Invalid tag: figure-manifest-network-navigation-3
-- Cell 105: Tags: ['figure-clusters-4']
-  - Invalid tag: figure-clusters-4
+- Cell 102: Tags: ['figure-manifest-network-navigation-3-*']
+  - Invalid tag: figure-manifest-network-navigation-3-*
+- Cell 105: Tags: ['figure-clusters-4-*']
+  - Invalid tag: figure-clusters-4-*
 > [!WARNING]
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- cover
 - contributor
+- cover
 
 #### Invalid Tags:
 - data-table
 - data-table
-- figure-typological-compass-placement-1
-- figure-typological-compas-composite-2
-- figure-manifest-network-navigation-3
-- figure-clusters-4
+- figure-typological-compass-placement-1-*
+- figure-typological-compas-composite-2-*
+- figure-manifest-network-navigation-3-*
+- figure-clusters-4-*
 > Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
