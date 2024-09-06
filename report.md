@@ -1,6 +1,6 @@
 # Report for article.ipynb ❤ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
 
 ## Cell Counts   
 **all cells: 118**  
@@ -70,7 +70,6 @@ No JavaScript code found in output cells.
 - Cell 23: Tags: ['hermeneutics']
 - Cell 24: Tags: ['hermeneutics']
 - Cell 31: Tags: ['data-table', 'table-1']
-  - Invalid tag: table-1
 - Cell 68: Tags: ['hermeneutics']
 - Cell 69: Tags: ['hermeneutics']
 - Cell 70: Tags: ['hermeneutics']
@@ -83,7 +82,6 @@ No JavaScript code found in output cells.
 - Cell 77: Tags: ['hermeneutics']
 - Cell 78: Tags: ['hermeneutics']
 - Cell 88: Tags: ['data-table', 'table-2']
-  - Invalid tag: table-2
 - Cell 91: Tags: ['hermeneutics']
 - Cell 92: Tags: ['hermeneutics']
 - Cell 93: Tags: ['hermeneutics']
@@ -102,12 +100,10 @@ No JavaScript code found in output cells.
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- contributor
 - cover
+- contributor
 
 #### Invalid Tags:
-- table-1
-- table-2
 - figure-typological-compass-placement-1-*
 - figure-typological-compas-composite-2-*
 - figure-manifest-network-navigation-3-*
