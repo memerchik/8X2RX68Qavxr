@@ -15,7 +15,7 @@ code: 6
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.7.10**, when **python-3.7** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.10.12**, when **python-3.7** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -25,8 +25,8 @@ code: 6
 
 ### Check Output Sizes and Rules
 
-Total output size: 0.51 KB
-Total number of images: 0
+Total output size: 947.08 KB
+Total number of images: 5
 Total number of tables: 0
 Total number of audios: 0
 
@@ -34,16 +34,21 @@ Total number of audios: 0
 | --- | --- |
 | text/html | True |
 | text/plain | False |
-| image/png | False |
+| image/png | True |
 | audio | False |
 
 | Output type | Presence |
 | --- | --- |
-| display_data | False |
+| display_data | True |
 | execute_result | True |
 
 | Tag | Cell | Remark |
 | --- | --- | --- |
+| image/png | 96 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkY4WDJSWDY4UWF2eHIlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=96) |
+| image/png | 97 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkY4WDJSWDY4UWF2eHIlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=97) |
+| image/png | 102 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkY4WDJSWDY4UWF2eHIlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=102) |
+| image/png | 105 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkY4WDJSWDY4UWF2eHIlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=105) |
+| image/png | 108 | Tags are not defined for the cell |
 
 
 ### Check HTML
@@ -65,7 +70,7 @@ No JavaScript code found in output cells.
 - Cell 23: Tags: ['hermeneutics']
 - Cell 24: Tags: ['hermeneutics']
 - Cell 31: Tags: ['data-table', 'table-1']
-  - Invalid tag: data-table
+  - Invalid tag: table-1
 - Cell 68: Tags: ['hermeneutics']
 - Cell 69: Tags: ['hermeneutics']
 - Cell 70: Tags: ['hermeneutics']
@@ -78,7 +83,7 @@ No JavaScript code found in output cells.
 - Cell 77: Tags: ['hermeneutics']
 - Cell 78: Tags: ['hermeneutics']
 - Cell 88: Tags: ['data-table', 'table-2']
-  - Invalid tag: data-table
+  - Invalid tag: table-2
 - Cell 91: Tags: ['hermeneutics']
 - Cell 92: Tags: ['hermeneutics']
 - Cell 93: Tags: ['hermeneutics']
@@ -101,8 +106,8 @@ No JavaScript code found in output cells.
 - cover
 
 #### Invalid Tags:
-- data-table
-- data-table
+- table-1
+- table-2
 - figure-typological-compass-placement-1-*
 - figure-typological-compas-composite-2-*
 - figure-manifest-network-navigation-3-*
@@ -131,7 +136,7 @@ Invalid URL (Other - 530): https://www.vibby.com/
 Invalid URL (Other - 403): https://foundation.mozilla.org/en/artifacts/popcorn-maker/
 Invalid URL (Other - 302): https://hihaho.com/
 Invalid URL (Other - 301): https://mindstamp.io/
-Invalid URL (Other - 503): https://www.vialogues.com/
+Invalid URL (Other - None): https://www.vialogues.com/
 Invalid URL (Other - None): https://motion-notes.di.fct.unl.pt/
 Invalid URL (Other - 406): https://geomedialab.org/atlascine.html
 Invalid URL (Other - None): https://etalk.vital-it.ch/
