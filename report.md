@@ -88,26 +88,16 @@ No JavaScript code found in output cells.
 - Cell 94: Tags: ['hermeneutics']
 - Cell 95: Tags: ['hermeneutics']
 - Cell 96: Tags: ['hermeneutics', 'figure-typological-compass-placement-1-*']
-  - Invalid tag: figure-typological-compass-placement-1-*
 - Cell 97: Tags: ['hermeneutics', 'figure-typological-compas-composite-2-*']
-  - Invalid tag: figure-typological-compas-composite-2-*
 - Cell 98: Tags: ['hermeneutics']
 - Cell 102: Tags: ['figure-manifest-network-navigation-3-*']
-  - Invalid tag: figure-manifest-network-navigation-3-*
 - Cell 105: Tags: ['figure-clusters-4-*']
-  - Invalid tag: figure-clusters-4-*
 > [!WARNING]
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- cover
 - contributor
-
-#### Invalid Tags:
-- figure-typological-compass-placement-1-*
-- figure-typological-compas-composite-2-*
-- figure-manifest-network-navigation-3-*
-- figure-clusters-4-*
+- cover
 > Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
