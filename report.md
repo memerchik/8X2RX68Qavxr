@@ -1,5 +1,6 @@
 # Report for article.ipynb ❤ 
 
+["media", ".github", ".gitignore", ".git", "report.md", "runtime.txt", "article.ipynb", "license_to_publish_JDH.dotx", "requirements.txt", "README.md"]
 Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
 
 ## Cell Counts   
@@ -96,8 +97,8 @@ No JavaScript code found in output cells.
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- contributor
 - cover
+- contributor
 > Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
