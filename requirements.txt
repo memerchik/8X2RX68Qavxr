@@ -1,1 +1,2 @@
 jupyter-contrib-nbextensions==0.5.1
+pandas
