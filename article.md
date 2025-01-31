@@ -17,9 +17,24 @@ jupyter:
 # In search of an interpretative environment for digital traces: the building of Arvest
 <!-- #endregion -->
 
+<!-- #region tags=["contributor"] -->
+ ### Clarisse Bardiot [![https://orcid.org/0000-0002-8126-8249](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8126-8249) 
+Université Rennes 2
+<!-- #endregion -->
+
+<!-- #region tags=["contributor"] -->
+### Jacob Hart [![https://orcid.org/0009-0005-2979-6713](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-2979-6713) 
+Université Rennes 2
+<!-- #endregion -->
+
+<!-- #region tags=["contributor"] -->
+### David Rouquet
+Tetras Libre
+<!-- #endregion -->
+
 <!-- #region tags=["copyright"] -->
 [![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
+© Clarisse Bardiot - Jacob Hart - David Rouquet. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- #endregion -->
 
