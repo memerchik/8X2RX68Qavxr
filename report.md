@@ -725,11 +725,9 @@ No JavaScript code found in output cells.
 > [!WARNING]
 > **Invalid URL (404):** https://github.com/SCENE-CE/mirador-multi-user
 
-**Impossible to verify (non-404 error code - 23):**
+**Impossible to verify (non-404 error code - 20):**
 
-Invalid URL (Other - 500): https://orcid.org/0000-0002-8126-8249](https://orcid.org/sites/default/files/images/orcid_16x16.png
-Invalid URL (Other - 500): https://orcid.org/0009-0005-2979-6713](https://orcid.org/sites/default/files/images/orcid_16x16.png
-Invalid URL (Other - 403): https://distantviewing.org/
+Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
 Invalid URL (Other - 403): https://www.europeana.eu
 Invalid URL (Other - 302): https://gitlab.tetras-libre.fr/iiif/POC-mirador](https://gitlab.tetras-libre.fr/iiif/POC-mirador
 Invalid URL (Other - None): https://website1.com
@@ -741,80 +739,78 @@ Invalid URL (Other - 308): https://celluloid.huma-num.fr/
 Invalid URL (Other - None): https://www.vialogues.com/
 Invalid URL (Other - None): https://motion-notes.di.fct.unl.pt/
 Invalid URL (Other - 403): https://pro.europeana.eu/page/enhanced-unified-playout-service
-Invalid URL (Other - 403): https://kinolab.org/
 Invalid URL (Other - 406): https://geomedialab.org/atlascine.html
 Invalid URL (Other - None): https://etalk.vital-it.ch/
 Invalid URL (Other - 403): https://www.4science.com/dspace-glam/
 Invalid URL (Other - 406): https://prezi.com/
 Invalid URL (Other - 308): https://www.loom.com/fr
 Invalid URL (Other - 405): https://colab.research.google.com/
-Invalid URL (Other - 403): https://heuristnetwork.org/
+Invalid URL (Other - 301): https://heuristnetwork.org/
 Invalid URL (Other - 301): https://coeso.hypotheses.org/498](https://coeso.hypotheses.org/498
 
 > [!TIP]
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
 
 
-**Valid URLs (200 - 60):**
+**Valid URLs (200 - 59):**
 
-2. https://orcid.org/0000-0002-8126-8249
-4. https://orcid.org/0009-0005-2979-6713
-5. https://licensebuttons.net/l/by/4.0/88x31.png
-6. https://creativecommons.org/licenses/by/4.0/
-8. http://www.rekall.fr/
-9. https://memorekall.com/en/
-10. https://www.docam.ca
-11. https://www.buzzinglight.com/
-12. https://project.memorekall.com/en/capsule/preview/hakanai-amcb
-13. https://www.flucoma.org/
-15. https://dansophie.hypotheses.org
-16. https://www.w3.org/TR/annotation-model/
-17. https://iiif.io/
-19. https://github.com/ProjectMirador/mirador
-22. https://videonotes.net/
-24. https://yinote.co/
-25. https://www.timeline.ly/
-26. https://www.verse.com/
-29. https://edpuzzle.com/
-31. http://www.advene.org/
-33. https://github.com/ksnip/ksnip
-35. https://motionbank.org/
-36. https://www.w3.org/2008/WebVideo/Annotations/
-37. https://medialab.sciencespo.fr/en/tools/dicto/
-38. https://go.coachseye.com/retirement/
-41. https://jarvis.playment.io/
-43. https://omeka.org/
-44. https://rclmediate.lib.rochester.edu/
-45. https://mediaecology.dartmouth.edu/sat/
-46. https://www.recolnat.org/fr/annotate
-48. https://educ.arte.tv/
-49. https://otranscribe.com/
-50. http://www.sonal-info.com/
-51. https://opennewslabs.github.io/autoEdit_2/
-52. https://frametrail.org/
-53. https://scenari.software/fr/
-54. http://piim.newschool.edu/entitymapper/
-55. https://www.iri.centrepompidou.fr/outils/lignes-de-temps/
-57. http://antiboredom.github.io/videogrep/
-58. http://ucbvislab.github.io/speecheditor/
-59. https://github.com/strob/interlace
-60. https://macdownload.informer.com/f5-transcription-free/
-61. https://www.descript.com/
-62. https://openparliament.tv/?lang=en
-66. https://av.tib.eu/
-67. https://mediasuite.clariah.nl/
-68. https://iiif.io/api/presentation/3.0/
-72. https://www.djangoproject.com/
-73. https://joinpeertube.org/
-74. https://github.com/arvest-data-in-context/ml-notebooks
-76. https://www.anaconda.com/
-77. https://alphacephei.com/vosk/
-78. https://github.com/distant-viewing/dvt
-79. https://dhlab.yale.edu/projects/pixplot/
-80. https://networkx.org/
-81. https://www.nakala.fr/
-84. https://github.com/arvest-data-in-context/COESO-collaborative-analytics/blob/main/Data/boullier-pidoux-assessment.pdf
-85. https://github.com/arvest-data-in-context/COESO-Collaborative-Analytics/blob/main/Appendix/2-Composite-Typology-Visualization-Data.json
-86. https://coeso.tetras-libre.fr/data/coeso-deliverable/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
-87. https://coeso.tetras-libre.fr/
+2. https://licensebuttons.net/l/by/4.0/88x31.png
+4. http://www.rekall.fr/
+5. https://memorekall.com/en/
+6. https://www.docam.ca
+7. https://www.buzzinglight.com/
+8. https://project.memorekall.com/en/capsule/preview/hakanai-amcb
+9. https://www.flucoma.org/
+10. https://distantviewing.org/
+11. https://dansophie.hypotheses.org
+12. https://www.w3.org/TR/annotation-model/
+13. https://iiif.io/
+15. https://github.com/ProjectMirador/mirador
+18. https://videonotes.net/
+20. https://yinote.co/
+21. https://www.timeline.ly/
+22. https://www.verse.com/
+25. https://edpuzzle.com/
+27. http://www.advene.org/
+29. https://github.com/ksnip/ksnip
+31. https://motionbank.org/
+32. https://www.w3.org/2008/WebVideo/Annotations/
+33. https://medialab.sciencespo.fr/en/tools/dicto/
+34. https://go.coachseye.com/retirement/
+37. https://jarvis.playment.io/
+38. https://kinolab.org/
+39. https://omeka.org/
+40. https://rclmediate.lib.rochester.edu/
+41. https://mediaecology.dartmouth.edu/sat/
+42. https://www.recolnat.org/fr/annotate
+44. https://educ.arte.tv/
+45. https://otranscribe.com/
+46. http://www.sonal-info.com/
+47. https://opennewslabs.github.io/autoEdit_2/
+48. https://frametrail.org/
+49. https://scenari.software/fr/
+50. http://piim.newschool.edu/entitymapper/
+51. https://www.iri.centrepompidou.fr/outils/lignes-de-temps/
+53. http://antiboredom.github.io/videogrep/
+54. http://ucbvislab.github.io/speecheditor/
+55. https://github.com/strob/interlace
+56. https://macdownload.informer.com/f5-transcription-free/
+57. https://www.descript.com/
+58. https://openparliament.tv/?lang=en
+62. https://av.tib.eu/
+63. https://mediasuite.clariah.nl/
+64. https://iiif.io/api/presentation/3.0/
+68. https://www.djangoproject.com/
+69. https://joinpeertube.org/
+70. https://github.com/arvest-data-in-context/ml-notebooks
+72. https://www.anaconda.com/
+73. https://alphacephei.com/vosk/
+74. https://github.com/distant-viewing/dvt
+75. https://dhlab.yale.edu/projects/pixplot/
+76. https://networkx.org/
+77. https://www.nakala.fr/
+80. https://github.com/arvest-data-in-context/COESO-collaborative-analytics/blob/main/Data/boullier-pidoux-assessment.pdf
+81. https://github.com/arvest-data-in-context/COESO-Collaborative-Analytics/blob/main/Appendix/2-Composite-Typology-Visualization-Data.json
+82. https://coeso.tetras-libre.fr/data/coeso-deliverable/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
+83. https://coeso.tetras-libre.fr/
 
