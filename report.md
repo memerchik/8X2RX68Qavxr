@@ -725,11 +725,11 @@ No JavaScript code found in output cells.
 > [!WARNING]
 > **Invalid URL (404):** https://github.com/SCENE-CE/mirador-multi-user
 
-**Impossible to verify (non-404 error code - 20):**
+**Impossible to verify (non-404 error code - 19):**
 
 Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
 Invalid URL (Other - 403): https://www.europeana.eu
-Invalid URL (Other - 302): https://gitlab.tetras-libre.fr/iiif/POC-mirador](https://gitlab.tetras-libre.fr/iiif/POC-mirador
+Invalid URL (Other - 302): https://gitlab.tetras-libre.fr/iiif/POC-mirador
 Invalid URL (Other - None): https://website1.com
 Invalid URL (Other - 530): https://www.vibby.com/
 Invalid URL (Other - 403): https://foundation.mozilla.org/en/artifacts/popcorn-maker/
@@ -746,13 +746,12 @@ Invalid URL (Other - 406): https://prezi.com/
 Invalid URL (Other - 308): https://www.loom.com/fr
 Invalid URL (Other - 405): https://colab.research.google.com/
 Invalid URL (Other - 301): https://heuristnetwork.org/
-Invalid URL (Other - 301): https://coeso.hypotheses.org/498](https://coeso.hypotheses.org/498
 
 > [!TIP]
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
 
 
-**Valid URLs (200 - 59):**
+**Valid URLs (200 - 60):**
 
 2. https://licensebuttons.net/l/by/4.0/88x31.png
 4. http://www.rekall.fr/
@@ -809,6 +808,7 @@ Invalid URL (Other - 301): https://coeso.hypotheses.org/498](https://coeso.hypot
 75. https://dhlab.yale.edu/projects/pixplot/
 76. https://networkx.org/
 77. https://www.nakala.fr/
+79. https://coeso.hypotheses.org/498
 80. https://github.com/arvest-data-in-context/COESO-collaborative-analytics/blob/main/Data/boullier-pidoux-assessment.pdf
 81. https://github.com/arvest-data-in-context/COESO-Collaborative-Analytics/blob/main/Appendix/2-Composite-Typology-Visualization-Data.json
 82. https://coeso.tetras-libre.fr/data/coeso-deliverable/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
